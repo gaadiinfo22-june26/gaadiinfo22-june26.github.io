@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gaadiinfo22-june26.github.io/sitemap.xml
